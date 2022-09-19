@@ -7,6 +7,8 @@ Main ideas:
 -	Constrained: by script, by score, by set design = limiting perception and expectations of a robotic system
 -	But also provides a rich environment for a robot to combine actions with a human partner because performances include verbal and non-verbal behavior and the audiences are sensitive to the main aspects of HRI
 -	Timing: anticipatory action at sub-action resolution = more fluent, more committed, and more contributing to the team VS robots that are purely reactive
+
+
 Questions: 
 -	What other factors would help in better HRI? The article mentioned the robots having an “inner monologue” to maintain continuity and realism in their behavior, whether they say something or not, resulting in a more natural interaction. Predictability using facial expressions, sensing what they’ll say or do based on 
 -	Other than performative arts as the article suggests, what would we turn to, to experiment fluent coordination and joint action timing of HRI? -medical settings (enhanced sensing), chatbots (friend), psychologist, manufacturing industry
