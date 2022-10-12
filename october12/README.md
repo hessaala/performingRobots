@@ -3,3 +3,4 @@
 -	To what extent is physical realness important in androids? Does it facilitate the expression of emotion because it signifies consciousness? 
 -	This reading also provides another example and viewpoint on using theatre performance to evaluate human robot interaction and the importance of having this study. The discussion also looks at this interaction and studies the possibilities of a posthumanist world. 
 -	Why do we try to humanize something other than us? Is it because we want to see ourselves beyond us and try to understand it through other ‘beings’?
+-	How do we move an audience with a non-human object’s performance? 
