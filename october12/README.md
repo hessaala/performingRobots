@@ -7,4 +7,5 @@ Thinking Something Makes It So
 -	How do we move an audience with a non-human object’s performance? 
 
 Our Remote Controlled Robot 
+
 We have made our robot remote controlled using the hobby RC radios. It was tricky to control it with the speed but with practice I got used to the movement and directions. 
